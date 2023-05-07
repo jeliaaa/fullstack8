@@ -82,6 +82,7 @@ body{
     font-weight: bold;
     font-size: 50px;
     cursor: pointer;
+    float: right;
 }
 #close-btn:hover, #close-btn:active{
     color: red;
